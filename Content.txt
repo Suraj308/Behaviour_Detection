@@ -1,0 +1,54 @@
+This Project get to understand the behaviour of the person using the micro expression.
+We will understand if the person stays on the statement he provided or will he changes his response.
+This will be understand by playing the game.
+
+Imagine you are playing the game the game is to get the reward -
+
+-If both corporate each will receive 50% 
+-If One corporate one betray the won who betrayed will receive 90% of winning and the one who corporate will get nothing and the house will(The host company who organises game) receive 10%.
+-If Both betray both will get 0% and the house will get all 100%. 
+Rule/Process of Game-
+- First both player will be asked Their answer in front of each other in the same time. (Both will provide with an answer)
+-Then they will be separated from one another and asked their final answer.
+
+The project will find out if the player will stay on their commitment from earlier or will they change the answer.
+
+for eg. If both the player choose to corporate in first round and then when it come time to provide with an actual answer will they both stick on their answer or will they change it.
+
+Also if we provide with the message like the other player has provided a different answer in round 2 to both the player before making their actual answer will they more likely to change their answer. 
+
+The project will find the answer by looking in 3 traits-
+Cunning 
+Honest 
+Confidence
+
+Cunning - If the micro expressions shows this traits the player might switch the answer.
+Honest - If the person shows honesty then the person might be more committed with the answer.
+Confidence- If the person shows low confidence then the person might switch his response in Round 2.
+
+The project needs to provide the answer just before the player gonna reveal its answer in round 2.
+
+
+Round 1 time window
+Round 2 time window
+Round 2 changes from round 1
+Round 2 Final.
+
+
+
+
+The project acquire data from 22 area in round 1 aand round 2 the way the data are used will be following way-
+
+First the data will be acquired the time window of round 1 where the player makes the choice . To understamd the cunning , honest and confidence
+Secound the ddta will take in time window before making the round 2 decision to understand the stress level hesitation of the person.
+Third the difference in round 1 and round 2.
+Fourth the final stance of round 2.
+
+Then we will use probability to create the answer of whether the person will switch or not
+
+
+
+
+Understand the facial landmark-
+
+Use Math to understand the land mark-
